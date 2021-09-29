@@ -1,4 +1,4 @@
-docker build -t miltonc/dockerwebapp .
+docker build -t miltonc/dockerwebapp 
 
 docker images,
 
